@@ -1,2 +1,2 @@
-# L1T24 - Capstone-Project - Lists - Functions and String Handling
+# L1T30 - Capstone-Project - OOP
 ## *Code Mentor Onboarding - Branden v Staden.*
